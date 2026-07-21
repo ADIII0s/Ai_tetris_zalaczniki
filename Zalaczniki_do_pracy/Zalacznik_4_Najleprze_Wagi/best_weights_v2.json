@@ -1,0 +1,31 @@
+{
+    "version": "V2",
+    "description": "Najlepszy zestaw wag V2 po uporządkowanym treningu i walidacji.",
+    "best_generation": 6,
+    "weights": {
+        "aggregate_height": 0.4495893902,
+        "max_height": 0.0595527396,
+        "holes": 0.2035129579,
+        "bumpiness": 0.2873449123
+    },
+    "validation": {
+        "games": 60,
+        "fitness": 25.1992,
+        "mean_lines": 21.0833,
+        "median_lines": 19.0,
+        "std_lines": 10.1198,
+        "mean_pieces": 87.7167,
+        "zero_result_rate": 0.0
+    },
+    "final_test": {
+        "games": 200,
+        "fitness": 24.5758,
+        "mean_lines": 20.41,
+        "median_lines": 19.0,
+        "std_lines": 9.4669,
+        "mean_pieces": 86.595,
+        "best_lines": 61,
+        "worst_lines": 3,
+        "zero_result_rate": 0.0
+    }
+}

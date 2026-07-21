@@ -1,0 +1,26 @@
+--- TETRIS AI V2 FINAL REPORT ---
+Best generation:         6
+Aggregate height weight: 0.4495893902
+Max height weight:       0.0595527396
+Holes weight:            0.2035129579
+Bumpiness weight:        0.2873449123
+
+--- VALIDATION ---
+Games:                   60
+Fitness:                 25.1992
+Mean lines:              21.0833
+Median lines:            19.0000
+Std lines:               10.1198
+Mean pieces:             87.7167
+Zero result rate:        0.0000
+
+--- FINAL TEST ---
+Games:                   200
+Fitness:                 24.5758
+Mean lines:              20.4100
+Median lines:            19.0000
+Std lines:               9.4669
+Mean pieces:             86.5950
+Best lines:              61
+Worst lines:             3
+Zero result rate:        0.0000

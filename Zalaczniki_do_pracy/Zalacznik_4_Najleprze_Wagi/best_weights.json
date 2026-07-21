@@ -1,0 +1,18 @@
+{
+    "version": "V1",
+    "description": "Najlepszy zestaw wag po pierwszej optymalizacji algorytmem genetycznym.",
+    "weights": {
+        "aggregate_height": 0.2657524814627033,
+        "max_height": 0.20508422916135916,
+        "holes": 0.3030612872925905,
+        "bumpiness": 0.2261020020833469
+    },
+    "metrics": {
+        "mean_lines": 19.78,
+        "mean_pieces": 85.59,
+        "comparison_games": 100,
+        "wins_against_old_weights": 88,
+        "ties": 3,
+        "losses": 9
+    }
+}

@@ -1,0 +1,13 @@
+--- STATISTICAL ANALYSIS ---
+Games:                 100
+Old mean lines:        7.78
+Genetic mean lines:    19.78
+Mean paired difference: 12.00
+Median difference:     11.00
+95% bootstrap CI:      [9.96, 14.09]
+Wins / ties / losses:  88 / 3 / 9
+Wilcoxon statistic:    4618.00
+Wilcoxon p-value:      3.588043642e-16
+Rank-biserial effect:  0.9432
+Effect interpretation: large effect in favour of the genetic agent
+Conclusion:            Very strong evidence that the genetic agent is better.

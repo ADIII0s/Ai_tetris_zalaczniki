@@ -1,0 +1,39 @@
+--- TETRIS AI V3 FINAL REPORT ---
+Best generation: 32
+Board features: 11
+Decision weights: 12
+Stopped early: False
+
+Weights:
+aggregate_height         0.0470951233
+max_height               0.0019709448
+holes                    0.0894708173
+bumpiness                0.0049065980
+hole_depth               0.0249737688
+blocks_above_holes       0.0072736397
+wells                    0.5564624836
+row_transitions          0.0646732369
+column_transitions       0.0700320185
+danger_zone              0.0457574020
+filled_cells             0.0518301394
+line_clear_reward        0.0355538278
+
+--- VALIDATION ---
+Fitness:          72.6510
+Mean lines:       61.4500
+Median lines:     58.0000
+Std lines:        22.4324
+Mean pieces:      189.3833
+Best lines:       134
+Worst lines:      28
+Zero result rate: 0.0000
+
+--- FINAL TEST ---
+Fitness:          70.3163
+Mean lines:       59.8640
+Median lines:     55.0000
+Std lines:        24.5894
+Mean pieces:      185.5360
+Best lines:       147
+Worst lines:      17
+Zero result rate: 0.0000
