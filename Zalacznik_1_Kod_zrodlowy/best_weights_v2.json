@@ -1,0 +1,12 @@
+{
+    "aggregate_height": 0.4495893901736696,
+    "max_height": 0.059552739606759025,
+    "holes": 0.2035129578762318,
+    "bumpiness": 0.28734491234333953,
+    "generation": 6,
+    "validation_fitness": 25.199185156118023,
+    "validation_mean_lines": 21.083333333333332,
+    "validation_median_lines": 19.0,
+    "validation_std_lines": 10.119768881858034,
+    "validation_mean_pieces": 87.71666666666667
+}
