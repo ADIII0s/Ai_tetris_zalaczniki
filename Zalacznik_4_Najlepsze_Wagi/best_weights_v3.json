@@ -1,0 +1,55 @@
+{
+    "version": 3,
+    "generation": 32,
+    "board_feature_names": [
+        "aggregate_height",
+        "max_height",
+        "holes",
+        "bumpiness",
+        "hole_depth",
+        "blocks_above_holes",
+        "wells",
+        "row_transitions",
+        "column_transitions",
+        "danger_zone",
+        "filled_cells"
+    ],
+    "decision_weight_names": [
+        "aggregate_height",
+        "max_height",
+        "holes",
+        "bumpiness",
+        "hole_depth",
+        "blocks_above_holes",
+        "wells",
+        "row_transitions",
+        "column_transitions",
+        "danger_zone",
+        "filled_cells",
+        "line_clear_reward"
+    ],
+    "weights": {
+        "aggregate_height": 0.047095123285188695,
+        "max_height": 0.0019709448162786745,
+        "holes": 0.0894708172941814,
+        "bumpiness": 0.004906597983223933,
+        "hole_depth": 0.024973768830383523,
+        "blocks_above_holes": 0.007273639667346884,
+        "wells": 0.5564624836465629,
+        "row_transitions": 0.0646732368664841,
+        "column_transitions": 0.07003201846030095,
+        "danger_zone": 0.04575740196618574,
+        "filled_cells": 0.05183013935427224,
+        "line_clear_reward": 0.03555382782959091
+    },
+    "validation": {
+        "fitness": 72.65097053104311,
+        "mean_lines": 61.45,
+        "median_lines": 58.0,
+        "std_lines": 22.432435593726034,
+        "mean_pieces": 189.38333333333333,
+        "best_lines": 134.0,
+        "worst_lines": 28.0,
+        "zero_rate": 0.0
+    }
+}
